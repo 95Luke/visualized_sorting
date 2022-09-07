@@ -1,0 +1,3 @@
+libpq5 -> apt
+psycopg -> pip
+psycopg_pool -> pip 
